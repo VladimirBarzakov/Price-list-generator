@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\bin\Debug\Test.exe.config
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\bin\Debug\Test.exe
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\bin\Debug\Test.pdb
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\obj\Debug\Test.exe
+C:\Users\PC\Documents\Work task\ReffPriceV2\Test\obj\Debug\Test.pdb
